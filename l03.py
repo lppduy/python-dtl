@@ -23,3 +23,5 @@ number1 = int(input('Input an integer number: '))
 print(f'Number1 = {number1}')
 
 # ***** 3. Nhập dữ liệu số thực 
+number2 =float(input('Input an real number: '))
+print(f"Number2 = {number2}")
